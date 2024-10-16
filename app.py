@@ -4,7 +4,7 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
 
 # Load the trained model
-model = load_model('notebooks/discriminator_model.h5')  # Change to your model path
+model = load_model('models/discriminator_model.h5')  # Change to your model path
 
 def load_and_preprocess_image(img):
     # Load and preprocess the image
