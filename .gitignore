@@ -1,5 +1,6 @@
 notebooks\chest_xray\chest_xray
 notebooks/chest_xray/chest_xray
+<<<<<<< HEAD
 venv
 venv
 # Ignore virtual environment folder
@@ -15,3 +16,5 @@ __pycache__/
 # Ignore IDE configurations
 .vscode/
 .idea/
+=======
+>>>>>>> 8326c22f2f8278562530178dd18d2d3d9fe58282
