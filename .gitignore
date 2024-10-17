@@ -1,8 +1,8 @@
 notebooks\chest_xray\chest_xray
 notebooks/chest_xray/chest_xray
 <<<<<<< HEAD
-venv
-venv
+.venv\
+.venv/
 # Ignore virtual environment folder
 .venv/lib
 .venv/etc
