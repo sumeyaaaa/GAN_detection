@@ -1,0 +1,17 @@
+notebooks\chest_xray\chest_xray
+notebooks/chest_xray/chest_xray
+venv
+venv
+# Ignore virtual environment folder
+venv/lib
+venv/etc
+venv/include
+venv/scripts
+venv/share
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore IDE configurations
+.vscode/
+.idea/
